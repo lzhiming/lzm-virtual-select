@@ -17,4 +17,4 @@ Vue.use(LzmVirtual)
 
 ## in Vue
 
-<img alt="Join Discusion Group" src="simple.png" width="600">
+<img alt="vue simple" src="simple.png" width="600">
